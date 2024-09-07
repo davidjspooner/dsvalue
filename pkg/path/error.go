@@ -1,4 +1,4 @@
-package dspath
+package path
 
 import "fmt"
 
